@@ -62,5 +62,5 @@ dmypy.json
 # VS Code
 .vscode/
 
-.key
-.key.pub
+key
+key.pub
